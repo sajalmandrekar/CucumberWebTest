@@ -5,4 +5,4 @@ Technologies used:
 3. Selenium
 4. Java jdk
 
-developed using IDE: ecllipse for java[D[D[D[D[D[D[D[D[D[D[D[D[[[C[C[C[C[C[C[C[C[C[Clipse for Java
+developed using IDE: ecllipse for Java
